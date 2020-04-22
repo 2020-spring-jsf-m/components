@@ -28,11 +28,13 @@ import { CacieComponent } from './cacie/cacie.component'
 import { AlecDiceRollComponent } from './alec-dice-roll/alec-dice-roll.component'
 import { VwCtofComponent } from './vw-ctof/vw-ctof.component';
 import { JacobsComponentComponent } from './jacobs-component/jacobs-component.component';
+import { EtaGeneratorComponent } from './eta-generator/eta-generator.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PizzaToppingsComponent,
+    EtaGeneratorComponent,
     TtmAdditionComponent,
     MakSubtractComponent,
     TjsAdditionComponent,
